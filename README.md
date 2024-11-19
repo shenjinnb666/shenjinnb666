@@ -1,5 +1,5 @@
-- 👋 Hi, I’m zhanghaozhe
-- 👀 I’m interested in basketball，of course coding
+- 👋 Hi, I’m zhang
+- 👀 I’m interested in basketball，and of course coding
 - 🌱 I’m currently learning c and stm32
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
